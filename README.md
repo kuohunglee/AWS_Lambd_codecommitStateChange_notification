@@ -1,2 +1,3 @@
 # AWS_Lambd_codecommitStateChange_notification
 運用AWS Lambda服務來針對git push所更動的codecommit中協作的程式觸發telegram bot通知提醒
+會需要額外的request layer
